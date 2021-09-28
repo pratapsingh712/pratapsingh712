@@ -19,7 +19,7 @@ you can ask me about <strong> java,javascript,html,css,datastructure. </strong>
 🌱 I’m currently learning <strong> About web development and it's designing <strong>
 
 
-📫 How to reach me <a href="https://www.linkedin.com/in/raghvendra-pratap-singh-96834b1b3/" target="_blank">Raghvendra pratap </a>
+📫 How to reach me <a href="https://www.linkedin.com/in/raghvendra-pratap-singh-96834b1b3/" target="_blank"> Raghvendra pratap </a>
 
 
 
