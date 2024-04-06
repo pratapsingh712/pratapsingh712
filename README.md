@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @pratapsingh712
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 pratapsingh712/pratapsingh712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 👀 I’m interested in <strong> java development </strong>
 
-you can ask me about <strong> java,javascript,html,css,datastructure. </strong>
+you can ask me about <strong> java,SpingBoot,Microservices and Datastructures. </strong>
 
 🌱 I’m currently learning <strong> About web development and it's designing <strong>
 
